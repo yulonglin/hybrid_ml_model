@@ -1,2 +1,2 @@
-# hybrid_ml_model
-Implements hybrid predictive model from Tong Wang (ICML 2019)
+# Work in Progress
+Implements hybrid predictive model from Tong Wang (ICML 2019) on Credit Card dataset
